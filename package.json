@@ -1,0 +1,21 @@
+{
+  "name": "analog_node_server",
+  "version": "1.0.0",
+  "description": "模拟aplhce服务器",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "^1.9.1",
+    "mime": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/wangj-123/analog_node_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
